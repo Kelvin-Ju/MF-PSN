@@ -36,7 +36,7 @@ Light Stage Data Gallery, via:
 
 https://vgl.ict.usc.edu/Data/LightStage/
 
-Apple&Ground dataset, via:
+Apple&Gourd dataset, via:
 
 http://vision.ucsd.edu/~nalldrin/research/
 
